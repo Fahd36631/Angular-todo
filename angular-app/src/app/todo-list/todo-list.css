@@ -1,0 +1,28 @@
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.list h2 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 1.1rem;
+    color: #333;
+}
+.list button {
+    background-color: #e53935;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.2s;
+}
+.list button:hover {
+    background-color: #c62828;
+}

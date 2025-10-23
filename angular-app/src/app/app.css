@@ -1,0 +1,13 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    background-color: black;
+    min-height: 100vh;
+    color: white;
+}
+h1 {
+    color: #ff4081;
+}
